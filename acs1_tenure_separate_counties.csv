@@ -1,0 +1,21 @@
+"County","Occupied_Type","Race_Category","Estimate","MOE"
+"Alameda","Owner-Occupied","Latino",39747,2574
+"Alameda","Owner-Occupied","Non-Latino",273217,5709.78817470491
+"Alameda","Renter-Occupied","Latino",68367,3711
+"Alameda","Renter-Occupied","Non-Latino",191593,6536.84702283907
+"Contra Costa","Owner-Occupied","Latino",48520,3333
+"Contra Costa","Owner-Occupied","Non-Latino",224324,4599.1116533522
+"Contra Costa","Renter-Occupied","Latino",40212,3752
+"Contra Costa","Renter-Occupied","Non-Latino",82215,4557.576658708
+"Marin","Owner-Occupied","Latino",3480,853
+"Marin","Owner-Occupied","Non-Latino",60356,2476.73555310211
+"Marin","Renter-Occupied","Latino",9293,1312
+"Marin","Renter-Occupied","Non-Latino",23520,2478.484012456
+"San Francisco","Owner-Occupied","Latino",12893,1587
+"San Francisco","Owner-Occupied","Non-Latino",120848,4641.07638377133
+"San Francisco","Renter-Occupied","Latino",38680,2527
+"San Francisco","Renter-Occupied","Non-Latino",180586,5967.93607539491
+"San Mateo","Owner-Occupied","Latino",18175,1733
+"San Mateo","Owner-Occupied","Non-Latino",130764,3991.21134494279
+"San Mateo","Renter-Occupied","Latino",29043,1923
+"San Mateo","Renter-Occupied","Non-Latino",70916,4026.73900321339
