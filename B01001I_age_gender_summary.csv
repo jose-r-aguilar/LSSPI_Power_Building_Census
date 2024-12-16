@@ -1,0 +1,146 @@
+GEOID,NAME,gender,age_group,total
+06001,"Alameda County, California",Female,10 to 14 years,15185
+06001,"Alameda County, California",Female,15 to 17 years,9321
+06001,"Alameda County, California",Female,18 and 19 years,6478
+06001,"Alameda County, California",Female,20 to 24 years,14938
+06001,"Alameda County, California",Female,25 to 29 years,15288
+06001,"Alameda County, California",Female,30 to 34 years,15298
+06001,"Alameda County, California",Female,35 to 44 years,26860
+06001,"Alameda County, California",Female,45 to 54 years,24065
+06001,"Alameda County, California",Female,5 to 9 years,11654
+06001,"Alameda County, California",Female,55 to 64 years,18018
+06001,"Alameda County, California",Female,65 to 74 years,10594
+06001,"Alameda County, California",Female,75 to 84 years,5489
+06001,"Alameda County, California",Female,85 years and over,1898
+06001,"Alameda County, California",Female,Under 5 years,11759
+06001,"Alameda County, California",Male,10 to 14 years,15977
+06001,"Alameda County, California",Male,15 to 17 years,10046
+06001,"Alameda County, California",Male,18 and 19 years,6349
+06001,"Alameda County, California",Male,20 to 24 years,14898
+06001,"Alameda County, California",Male,25 to 29 years,15279
+06001,"Alameda County, California",Male,30 to 34 years,15990
+06001,"Alameda County, California",Male,35 to 44 years,29842
+06001,"Alameda County, California",Male,45 to 54 years,25496
+06001,"Alameda County, California",Male,5 to 9 years,11852
+06001,"Alameda County, California",Male,55 to 64 years,19290
+06001,"Alameda County, California",Male,65 to 74 years,9504
+06001,"Alameda County, California",Male,75 to 84 years,3538
+06001,"Alameda County, California",Male,85 years and over,1420
+06001,"Alameda County, California",Male,Under 5 years,12270
+06001,"Alameda County, California",Other,Other,378596
+06013,"Contra Costa County, California",Female,10 to 14 years,12490
+06013,"Contra Costa County, California",Female,15 to 17 years,8832
+06013,"Contra Costa County, California",Female,18 and 19 years,5266
+06013,"Contra Costa County, California",Female,20 to 24 years,12140
+06013,"Contra Costa County, California",Female,25 to 29 years,11665
+06013,"Contra Costa County, California",Female,30 to 34 years,11592
+06013,"Contra Costa County, California",Female,35 to 44 years,23026
+06013,"Contra Costa County, California",Female,45 to 54 years,20373
+06013,"Contra Costa County, California",Female,5 to 9 years,12552
+06013,"Contra Costa County, California",Female,55 to 64 years,15551
+06013,"Contra Costa County, California",Female,65 to 74 years,9293
+06013,"Contra Costa County, California",Female,75 to 84 years,4779
+06013,"Contra Costa County, California",Female,85 years and over,1477
+06013,"Contra Costa County, California",Female,Under 5 years,11235
+06013,"Contra Costa County, California",Male,10 to 14 years,14228
+06013,"Contra Costa County, California",Male,15 to 17 years,9170
+06013,"Contra Costa County, California",Male,18 and 19 years,5496
+06013,"Contra Costa County, California",Male,20 to 24 years,12386
+06013,"Contra Costa County, California",Male,25 to 29 years,11449
+06013,"Contra Costa County, California",Male,30 to 34 years,11560
+06013,"Contra Costa County, California",Male,35 to 44 years,24284
+06013,"Contra Costa County, California",Male,45 to 54 years,21538
+06013,"Contra Costa County, California",Male,5 to 9 years,11701
+06013,"Contra Costa County, California",Male,55 to 64 years,15724
+06013,"Contra Costa County, California",Male,65 to 74 years,7920
+06013,"Contra Costa County, California",Male,75 to 84 years,3729
+06013,"Contra Costa County, California",Male,85 years and over,336
+06013,"Contra Costa County, California",Male,Under 5 years,11451
+06013,"Contra Costa County, California",Other,Other,321243
+06041,"Marin County, California",Female,10 to 14 years,1944
+06041,"Marin County, California",Female,15 to 17 years,1396
+06041,"Marin County, California",Female,18 and 19 years,1940
+06041,"Marin County, California",Female,20 to 24 years,856
+06041,"Marin County, California",Female,25 to 29 years,1430
+06041,"Marin County, California",Female,30 to 34 years,1263
+06041,"Marin County, California",Female,35 to 44 years,3013
+06041,"Marin County, California",Female,45 to 54 years,3435
+06041,"Marin County, California",Female,5 to 9 years,2263
+06041,"Marin County, California",Female,55 to 64 years,2443
+06041,"Marin County, California",Female,65 to 74 years,1510
+06041,"Marin County, California",Female,75 to 84 years,364
+06041,"Marin County, California",Female,85 years and over,464
+06041,"Marin County, California",Female,Under 5 years,1921
+06041,"Marin County, California",Male,10 to 14 years,2746
+06041,"Marin County, California",Male,15 to 17 years,1469
+06041,"Marin County, California",Male,18 and 19 years,684
+06041,"Marin County, California",Male,20 to 24 years,2491
+06041,"Marin County, California",Male,25 to 29 years,1455
+06041,"Marin County, California",Male,30 to 34 years,1556
+06041,"Marin County, California",Male,35 to 44 years,3820
+06041,"Marin County, California",Male,45 to 54 years,3806
+06041,"Marin County, California",Male,5 to 9 years,1416
+06041,"Marin County, California",Male,55 to 64 years,2459
+06041,"Marin County, California",Male,65 to 74 years,1278
+06041,"Marin County, California",Male,75 to 84 years,418
+06041,"Marin County, California",Male,85 years and over,40
+06041,"Marin County, California",Male,Under 5 years,2049
+06041,"Marin County, California",Other,Other,49929
+06075,"San Francisco County, California",Female,10 to 14 years,3580
+06075,"San Francisco County, California",Female,15 to 17 years,2151
+06075,"San Francisco County, California",Female,18 and 19 years,1633
+06075,"San Francisco County, California",Female,20 to 24 years,4372
+06075,"San Francisco County, California",Female,25 to 29 years,5784
+06075,"San Francisco County, California",Female,30 to 34 years,6096
+06075,"San Francisco County, California",Female,35 to 44 years,9823
+06075,"San Francisco County, California",Female,45 to 54 years,7678
+06075,"San Francisco County, California",Female,5 to 9 years,3747
+06075,"San Francisco County, California",Female,55 to 64 years,5980
+06075,"San Francisco County, California",Female,65 to 74 years,4650
+06075,"San Francisco County, California",Female,75 to 84 years,2655
+06075,"San Francisco County, California",Female,85 years and over,1126
+06075,"San Francisco County, California",Female,Under 5 years,3640
+06075,"San Francisco County, California",Male,10 to 14 years,3766
+06075,"San Francisco County, California",Male,15 to 17 years,2399
+06075,"San Francisco County, California",Male,18 and 19 years,1543
+06075,"San Francisco County, California",Male,20 to 24 years,4057
+06075,"San Francisco County, California",Male,25 to 29 years,5999
+06075,"San Francisco County, California",Male,30 to 34 years,7338
+06075,"San Francisco County, California",Male,35 to 44 years,12838
+06075,"San Francisco County, California",Male,45 to 54 years,9770
+06075,"San Francisco County, California",Male,5 to 9 years,3800
+06075,"San Francisco County, California",Male,55 to 64 years,7503
+06075,"San Francisco County, California",Male,65 to 74 years,4201
+06075,"San Francisco County, California",Male,75 to 84 years,1004
+06075,"San Francisco County, California",Male,85 years and over,1342
+06075,"San Francisco County, California",Male,Under 5 years,4015
+06075,"San Francisco County, California",Other,Other,132490
+06081,"San Mateo County, California",Female,10 to 14 years,6235
+06081,"San Mateo County, California",Female,15 to 17 years,4462
+06081,"San Mateo County, California",Female,18 and 19 years,2771
+06081,"San Mateo County, California",Female,20 to 24 years,6734
+06081,"San Mateo County, California",Female,25 to 29 years,6505
+06081,"San Mateo County, California",Female,30 to 34 years,6421
+06081,"San Mateo County, California",Female,35 to 44 years,12142
+06081,"San Mateo County, California",Female,45 to 54 years,11771
+06081,"San Mateo County, California",Female,5 to 9 years,5681
+06081,"San Mateo County, California",Female,55 to 64 years,10162
+06081,"San Mateo County, California",Female,65 to 74 years,6233
+06081,"San Mateo County, California",Female,75 to 84 years,3341
+06081,"San Mateo County, California",Female,85 years and over,1693
+06081,"San Mateo County, California",Female,Under 5 years,5357
+06081,"San Mateo County, California",Male,10 to 14 years,7362
+06081,"San Mateo County, California",Male,15 to 17 years,4508
+06081,"San Mateo County, California",Male,18 and 19 years,2980
+06081,"San Mateo County, California",Male,20 to 24 years,7215
+06081,"San Mateo County, California",Male,25 to 29 years,6810
+06081,"San Mateo County, California",Male,30 to 34 years,6822
+06081,"San Mateo County, California",Male,35 to 44 years,13461
+06081,"San Mateo County, California",Male,45 to 54 years,12490
+06081,"San Mateo County, California",Male,5 to 9 years,5344
+06081,"San Mateo County, California",Male,55 to 64 years,10049
+06081,"San Mateo County, California",Male,65 to 74 years,5462
+06081,"San Mateo County, California",Male,75 to 84 years,2593
+06081,"San Mateo County, California",Male,85 years and over,487
+06081,"San Mateo County, California",Male,Under 5 years,5338
+06081,"San Mateo County, California",Other,Other,180429

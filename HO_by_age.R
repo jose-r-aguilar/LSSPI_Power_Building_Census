@@ -4,40 +4,26 @@ library(dplyr)
 library(tidyr)
 library(stringr)
 
-
 # Set your Census API key
-census_api_key("6f6fae65578dfee3340f638a14e9ff0c8d9c01de")
-#Change with your API key
+census_api_key("6f6fae65578dfee3340f638a14e9ff0c8d9c01de")  # Replace with your API key
 
 # Define the state and counties
 state <- "CA"
 counties <- c("San Francisco", "Alameda", "Contra Costa", "Marin", "San Mateo")
 
-# Load the age distribution for the Hispanic or Latino population (B01001I)
-
-age_data <- get_acs(
+# Load the Hispanic or Latino population age and gender data (B01001I)
+age_gender_data <- get_acs(
   geography = "county",
   state = state,
   county = counties,
   table = "B01001I",
-  survey = "acs5",
-  year = 2022
+  survey = "acs1",
+  year = 2023
 )
 
-# Load the Hispanic or Latino origin data (B03001)
-hispanic_data <- get_acs(
-  geography = "county",
-  state = state,
-  county = counties,
-  table = "B03001",
-  survey = "acs5",
-  year = 2022
-)
-# Prepare the data for merging
-
-# Prepare the age and gender data with the updated conventions
-age_gender_data <- age_data %>%
-  filter(!str_detect(variable, "B01001I_001")) %>%
+# Prepare the data with updated conventions
+age_gender_clean <- age_gender_data %>%
+  filter(!str_detect(variable, "B01001I_001")) %>%  # Exclude total population row
   mutate(
     gender = case_when(
       str_detect(variable, "^B01001I_0(0[3-9]|1[0-6])$") ~ "Male",
@@ -62,22 +48,11 @@ age_gender_data <- age_data %>%
       TRUE ~ "Other"  # Fallback
     )
   ) %>%
-  group_by(GEOID, NAME, gender, age_group) %>%
-  summarize(total = sum(estimate, na.rm = TRUE))
+  group_by(gender, age_group) %>%  # Group by gender and age group across all counties
+  summarize(total = sum(estimate, na.rm = TRUE), .groups = "drop")  # Summarize the total estimates
 
-## merge by 
+# View the cleaned and summarized data
+print(age_gender_clean)
 
-
-# Hispanic origin data
-hispanic_data <- hispanic_data %>%
-  filter(variable %in% c("B03001_003", "B03001_002")) %>%
-  mutate(hispanic_origin = ifelse(variable == "B03001_003", "Hispanic or Latino", "Not Hispanic or Latino")) %>%
-  select(GEOID, hispanic_origin, estimate) %>%
-  pivot_wider(names_from = hispanic_origin, values_from = estimate)
-
-# Join data to create a table showing age distribution by Hispanic origin
-age_distribution_table <- age_data %>%
-  left_join(hispanic_data, by = "GEOID")
-
-# View result
-print(age_distribution_table)
+# Optionally save the cleaned data to a CSV file
+write_csv(age_gender_clean, "B01001I_age_gender_combined.csv")
