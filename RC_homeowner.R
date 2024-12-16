@@ -1,6 +1,9 @@
 library(tidycensus)
 library(dplyr)
 library(tidyr)
+library(purrr)  # Add this to include map_dfr function
+library(stringr)  # Required for str_detect
+
 
 # Set your Census API key
 census_api_key("6f6fae65578dfee3340f638a14e9ff0c8d9c01de")  # Replace with your API key
