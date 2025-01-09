@@ -1,0 +1,117 @@
+race,gender,age_group,total
+Black,Female,10 to 14 years,8770
+Black,Female,15 to 17 years,4525
+Black,Female,18 and 19 years,2966
+Black,Female,20 to 24 years,10219
+Black,Female,25 to 29 years,11196
+Black,Female,30 to 34 years,11697
+Black,Female,35 to 44 years,19955
+Black,Female,45 to 54 years,19244
+Black,Female,5 to 9 years,5848
+Black,Female,55 to 64 years,20494
+Black,Female,65 to 74 years,17359
+Black,Female,75 to 84 years,9440
+Black,Female,85 years and over,4004
+Black,Female,Under 5 years,5801
+Black,Male,10 to 14 years,7867
+Black,Male,15 to 17 years,4996
+Black,Male,18 and 19 years,3692
+Black,Male,20 to 24 years,8607
+Black,Male,25 to 29 years,10035
+Black,Male,30 to 34 years,13153
+Black,Male,35 to 44 years,21942
+Black,Male,45 to 54 years,19735
+Black,Male,5 to 9 years,6494
+Black,Male,55 to 64 years,20715
+Black,Male,65 to 74 years,14570
+Black,Male,75 to 84 years,6537
+Black,Male,85 years and over,1609
+Black,Male,Under 5 years,7780
+Black,Other,Other,299250
+White,Female,10 to 14 years,35178
+White,Female,15 to 17 years,22897
+White,Female,18 and 19 years,15429
+White,Female,20 to 24 years,38182
+White,Female,25 to 29 years,48637
+White,Female,30 to 34 years,57495
+White,Female,35 to 44 years,110506
+White,Female,45 to 54 years,108144
+White,Female,5 to 9 years,30838
+White,Female,55 to 64 years,121613
+White,Female,65 to 74 years,113603
+White,Female,75 to 84 years,74062
+White,Female,85 years and over,32128
+White,Female,Under 5 years,28410
+White,Male,10 to 14 years,37321
+White,Male,15 to 17 years,23488
+White,Male,18 and 19 years,15492
+White,Male,20 to 24 years,37202
+White,Male,25 to 29 years,50348
+White,Male,30 to 34 years,63278
+White,Male,35 to 44 years,129348
+White,Male,45 to 54 years,118681
+White,Male,5 to 9 years,31209
+White,Male,55 to 64 years,130460
+White,Male,65 to 74 years,108996
+White,Male,75 to 84 years,63871
+White,Male,85 years and over,17903
+White,Male,Under 5 years,30473
+White,Other,Other,1695192
+Asian,Female,10 to 14 years,32705
+Asian,Female,15 to 17 years,18349
+Asian,Female,18 and 19 years,11869
+Asian,Female,20 to 24 years,30871
+Asian,Female,25 to 29 years,43382
+Asian,Female,30 to 34 years,60080
+Asian,Female,35 to 44 years,114345
+Asian,Female,45 to 54 years,99380
+Asian,Female,5 to 9 years,27109
+Asian,Female,55 to 64 years,85771
+Asian,Female,65 to 74 years,75893
+Asian,Female,75 to 84 years,39732
+Asian,Female,85 years and over,18119
+Asian,Female,Under 5 years,27063
+Asian,Male,10 to 14 years,34531
+Asian,Male,15 to 17 years,19160
+Asian,Male,18 and 19 years,11749
+Asian,Male,20 to 24 years,30791
+Asian,Male,25 to 29 years,43247
+Asian,Male,30 to 34 years,56248
+Asian,Male,35 to 44 years,106929
+Asian,Male,45 to 54 years,88911
+Asian,Male,5 to 9 years,30253
+Asian,Male,55 to 64 years,72842
+Asian,Male,65 to 74 years,61221
+Asian,Male,75 to 84 years,31098
+Asian,Male,85 years and over,10348
+Asian,Male,Under 5 years,28867
+Asian,Other,Other,1310863
+Latino,Female,10 to 14 years,39434
+Latino,Female,15 to 17 years,26162
+Latino,Female,18 and 19 years,18088
+Latino,Female,20 to 24 years,39040
+Latino,Female,25 to 29 years,40672
+Latino,Female,30 to 34 years,40670
+Latino,Female,35 to 44 years,74864
+Latino,Female,45 to 54 years,67322
+Latino,Female,5 to 9 years,35897
+Latino,Female,55 to 64 years,52154
+Latino,Female,65 to 74 years,32280
+Latino,Female,75 to 84 years,16628
+Latino,Female,85 years and over,6658
+Latino,Female,Under 5 years,33912
+Latino,Male,10 to 14 years,44079
+Latino,Male,15 to 17 years,27592
+Latino,Male,18 and 19 years,17052
+Latino,Male,20 to 24 years,41047
+Latino,Male,25 to 29 years,40992
+Latino,Male,30 to 34 years,43266
+Latino,Male,35 to 44 years,84245
+Latino,Male,45 to 54 years,73100
+Latino,Male,5 to 9 years,34113
+Latino,Male,55 to 64 years,55025
+Latino,Male,65 to 74 years,28365
+Latino,Male,75 to 84 years,11282
+Latino,Male,85 years and over,3625
+Latino,Male,Under 5 years,35123
+Latino,Other,Other,1062687
