@@ -1,0 +1,21 @@
+county,gender,employment_status,total,percentage
+"Alameda County, California",Female,Employed,85915,41.16142137816382
+"Alameda County, California",Female,Unemployed,7057,3.3809713166001525
+"Alameda County, California",Male,Employed,108433,51.94967589243365
+"Alameda County, California",Male,Unemployed,7322,3.507931412802369
+"Contra Costa County, California",Female,Employed,68897,40.42468301326621
+"Contra Costa County, California",Female,Unemployed,7140,4.18932953125275
+"Contra Costa County, California",Male,Employed,90310,52.9885644212095
+"Contra Costa County, California",Male,Unemployed,4086,2.397423034271532
+"Marin County, California",Female,Employed,9453,37.892331743295784
+"Marin County, California",Female,Unemployed,729,2.9221950535134487
+"Marin County, California",Male,Employed,14072,56.407584078245876
+"Marin County, California",Male,Unemployed,693,2.7778891249448834
+"San Francisco County, California",Female,Employed,31819,40.21206147002325
+"San Francisco County, California",Female,Unemployed,2793,3.529723991507431
+"San Francisco County, California",Male,Employed,42599,53.83555757759579
+"San Francisco County, California",Male,Unemployed,1917,2.4226569608735216
+"San Mateo County, California",Female,Employed,41431,43.19643843900201
+"San Mateo County, California",Female,Unemployed,1584,1.651496668856151
+"San Mateo County, California",Male,Employed,50848,53.014711248735836
+"San Mateo County, California",Male,Unemployed,2050,2.137353643406003
