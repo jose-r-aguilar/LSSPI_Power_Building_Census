@@ -1,0 +1,241 @@
+"race","county","educational_attainment","total","gender","percentage"
+"Asian","Alameda","Bachelor's Degree",260866,"All",63.7404309698165
+"Asian","Alameda","High School",43217,"All",10.5597134361034
+"Asian","Alameda","Less than High School Diploma",42310,"All",10.3380955522488
+"Asian","Alameda","Some College",62870,"All",15.3617600418313
+"Asian","Contra Costa","Bachelor's Degree",105138,"All",62.8454954093343
+"Asian","Contra Costa","High School",18214,"All",10.8872895944912
+"Asian","Contra Costa","Less than High School Diploma",13049,"All",7.7999473986228
+"Asian","Contra Costa","Some College",30895,"All",18.4672675975516
+"Asian","Marin","Bachelor's Degree",9088,"All",69.9507389162562
+"Asian","Marin","High School",927,"All",7.13516009852217
+"Asian","Marin","Less than High School Diploma",850,"All",6.54248768472906
+"Asian","Marin","Some College",2127,"All",16.3716133004926
+"Asian","San Francisco","Bachelor's Degree",125952,"All",52.4498413412288
+"Asian","San Francisco","High School",30721,"All",12.793060656789
+"Asian","San Francisco","Less than High School Diploma",45937,"All",19.1294172517469
+"Asian","San Francisco","Some College",37528,"All",15.6276807502353
+"Asian","San Mateo","Bachelor's Degree",115005,"All",64.6614977200785
+"Asian","San Mateo","High School",20643,"All",11.6065153465987
+"Asian","San Mateo","Less than High School Diploma",10466,"All",5.88450271847608
+"Asian","San Mateo","Some College",31743,"All",17.8474842148468
+"Black","Alameda","Bachelor's Degree",42409,"All",37.4003457034006
+"Black","Alameda","High School",24870,"All",21.9327642161705
+"Black","Alameda","Less than High School Diploma",8969,"All",7.90972908141668
+"Black","Alameda","Some College",37144,"All",32.7571609990123
+"Black","Contra Costa","Bachelor's Degree",19749,"All",29.8417927137007
+"Black","Contra Costa","High School",15707,"All",23.7341150516025
+"Black","Contra Costa","Less than High School Diploma",5088,"All",7.68823947173575
+"Black","Contra Costa","Some College",25635,"All",38.7358527629611
+"Black","Marin","Bachelor's Degree",1231,"All",26.0143702451395
+"Black","Marin","High School",1706,"All",36.0524091293322
+"Black","Marin","Less than High School Diploma",353,"All",7.45984784446323
+"Black","Marin","Some College",1442,"All",30.4733727810651
+"Black","San Francisco","Bachelor's Degree",7921,"All",26.309496130468
+"Black","San Francisco","High School",11051,"All",36.7057494934733
+"Black","San Francisco","Less than High School Diploma",2240,"All",7.44013020227854
+"Black","San Francisco","Some College",8895,"All",29.5446241737802
+"Black","San Mateo","Bachelor's Degree",4920,"All",40.9760972765887
+"Black","San Mateo","High School",1765,"All",14.6997584742234
+"Black","San Mateo","Less than High School Diploma",1139,"All",9.4861330890314
+"Black","San Mateo","Some College",4183,"All",34.8380111601566
+"Hispanic","Alameda","Bachelor's Degree",54024,"All",22.711660619921
+"Hispanic","Alameda","High School",61460,"All",25.8377510310297
+"Hispanic","Alameda","Less than High School Diploma",68433,"All",28.7691964905053
+"Hispanic","Alameda","Some College",53952,"All",22.681391858544
+"Hispanic","Contra Costa","Bachelor's Degree",40773,"All",20.9849919710133
+"Hispanic","Contra Costa","High School",49795,"All",25.6284226129205
+"Hispanic","Contra Costa","Less than High School Diploma",51551,"All",26.5321982953844
+"Hispanic","Contra Costa","Some College",52177,"All",26.8543871206818
+"Hispanic","Marin","Bachelor's Degree",6913,"All",24.0418724351395
+"Hispanic","Marin","High School",5884,"All",20.4632398970578
+"Hispanic","Marin","Less than High School Diploma",9268,"All",32.2320372817695
+"Hispanic","Marin","Some College",6689,"All",23.2628503860333
+"Hispanic","San Francisco","Bachelor's Degree",38672,"All",41.2338597033704
+"Hispanic","San Francisco","High School",17393,"All",18.54521415548
+"Hispanic","San Francisco","Less than High School Diploma",16471,"All",17.5621354771983
+"Hispanic","San Francisco","Some College",21251,"All",22.6587906639513
+"Hispanic","San Mateo","Bachelor's Degree",22983,"All",19.7377235018292
+"Hispanic","San Mateo","High School",28682,"All",24.632005633706
+"Hispanic","San Mateo","Less than High School Diploma",37130,"All",31.8871197677814
+"Hispanic","San Mateo","Some College",27647,"All",23.7431510966833
+"White","Alameda","Bachelor's Degree",223020,"All",63.2578561764481
+"White","Alameda","High School",43956,"All",12.4677711689174
+"White","Alameda","Less than High School Diploma",10118,"All",2.8698905425222
+"White","Alameda","Some College",75463,"All",21.4044821121124
+"White","Contra Costa","Bachelor's Degree",190838,"All",55.6565612377328
+"White","Contra Costa","High School",50192,"All",14.6381439841346
+"White","Contra Costa","Less than High School Diploma",9493,"All",2.76856672062062
+"White","Contra Costa","Some College",92362,"All",26.936728057512
+"White","Marin","Bachelor's Degree",89285,"All",67.9722888355982
+"White","Marin","High School",12684,"All",9.65627498001599
+"White","Marin","Less than High School Diploma",2850,"All",2.16969281717483
+"White","Marin","Some College",26536,"All",20.201743367211
+"White","San Francisco","Bachelor's Degree",196517,"All",78.5088209914027
+"White","San Francisco","High School",14706,"All",5.87506791524178
+"White","San Francisco","Less than High School Diploma",4274,"All",1.70746907858992
+"White","San Francisco","Some College",34815,"All",13.9086420147656
+"White","San Mateo","Bachelor's Degree",130675,"All",65.5788300947487
+"White","San Mateo","High School",20186,"All",10.1302794282961
+"White","San Mateo","Less than High School Diploma",5567,"All",2.79378111450136
+"White","San Mateo","Some College",42836,"All",21.4971093624538
+"Asian","Alameda","Bachelor's Degree",134345,"Female",62.7903607250021
+"Asian","Alameda","High School",22625,"Female",10.5745052767366
+"Asian","Alameda","Less than High School Diploma",25086,"Female",11.7247310219763
+"Asian","Alameda","Some College",31902,"Female",14.9104029762851
+"Asian","Alameda","Bachelor's Degree",126521,"Male",64.7812395996006
+"Asian","Alameda","High School",20592,"Male",10.5435088707406
+"Asian","Alameda","Less than High School Diploma",17224,"Male",8.81902665062338
+"Asian","Alameda","Some College",30968,"Male",15.8562248790354
+"Asian","Contra Costa","Bachelor's Degree",57176,"Female",63.567735838568
+"Asian","Contra Costa","High School",9803,"Female",10.8988826505086
+"Asian","Contra Costa","Less than High School Diploma",7540,"Female",8.38290066151537
+"Asian","Contra Costa","Some College",15426,"Female",17.150480849408
+"Asian","Contra Costa","Bachelor's Degree",47962,"Male",62.0056624995152
+"Asian","Contra Costa","High School",8411,"Male",10.8738090005301
+"Asian","Contra Costa","Less than High School Diploma",5509,"Male",7.12207986968494
+"Asian","Contra Costa","Some College",15469,"Male",19.9984486302698
+"Asian","Marin","Bachelor's Degree",5518,"Female",69.487470091928
+"Asian","Marin","High School",769,"Female",9.68391890190152
+"Asian","Marin","Less than High School Diploma",501,"Female",6.30902908953532
+"Asian","Marin","Some College",1153,"Female",14.5195819166352
+"Asian","Marin","Bachelor's Degree",3570,"Male",70.6790734508018
+"Asian","Marin","High School",158,"Male",3.12809344684221
+"Asian","Marin","Less than High School Diploma",349,"Male",6.90952286675906
+"Asian","Marin","Some College",974,"Male",19.2833102355969
+"Asian","San Francisco","Bachelor's Degree",68722,"Female",52.9726896424139
+"Asian","San Francisco","High School",14949,"Female",11.5230746698939
+"Asian","San Francisco","Less than High School Diploma",26446,"Female",20.385258727675
+"Asian","San Francisco","Some College",19614,"Female",15.1189769600173
+"Asian","San Francisco","Bachelor's Degree",57230,"Male",51.8354814459228
+"Asian","San Francisco","High School",15772,"Male",14.285326111569
+"Asian","San Francisco","Less than High School Diploma",19491,"Male",17.6537719528653
+"Asian","San Francisco","Some College",17914,"Male",16.2254204896429
+"Asian","San Mateo","Bachelor's Degree",63488,"Female",66.7402525045465
+"Asian","San Mateo","High School",10618,"Female",11.1619203801234
+"Asian","San Mateo","Less than High School Diploma",4862,"Female",5.11106205388586
+"Asian","San Mateo","Some College",16159,"Female",16.9867650614442
+"Asian","San Mateo","Bachelor's Degree",51517,"Male",62.2712438051493
+"Asian","San Mateo","High School",10025,"Male",12.1177323824489
+"Asian","San Mateo","Less than High School Diploma",5604,"Male",6.77384262057295
+"Asian","San Mateo","Some College",15584,"Male",18.8371811918288
+"Black","Alameda","Bachelor's Degree",24366,"Female",40.8619822237129
+"Black","Alameda","High School",11041,"Female",18.5158477276539
+"Black","Alameda","Less than High School Diploma",3929,"Female",6.5889652859299
+"Black","Alameda","Some College",20294,"Female",34.0332047627033
+"Black","Alameda","Bachelor's Degree",18043,"Male",33.5608794315688
+"Black","Alameda","High School",13829,"Male",25.722629366467
+"Black","Alameda","Less than High School Diploma",5040,"Male",9.37465124065325
+"Black","Alameda","Some College",16850,"Male",31.341839961311
+"Black","Contra Costa","Bachelor's Degree",11470,"Female",32.9635590297735
+"Black","Contra Costa","High School",8195,"Female",23.5515576503046
+"Black","Contra Costa","Less than High School Diploma",2686,"Female",7.71927807793999
+"Black","Contra Costa","Some College",12445,"Female",35.7656052419818
+"Black","Contra Costa","Bachelor's Degree",8279,"Male",26.38052448778
+"Black","Contra Costa","High School",7512,"Male",23.936526144728
+"Black","Contra Costa","Less than High School Diploma",2402,"Male",7.65382531944046
+"Black","Contra Costa","Some College",13190,"Male",42.0291240480515
+"Black","Marin","Bachelor's Degree",391,"Female",25.6561679790026
+"Black","Marin","High School",185,"Female",12.1391076115486
+"Black","Marin","Less than High School Diploma",57,"Female",3.74015748031496
+"Black","Marin","Some College",891,"Female",58.4645669291339
+"Black","Marin","Bachelor's Degree",840,"Male",26.1845386533666
+"Black","Marin","High School",1521,"Male",47.4127182044888
+"Black","Marin","Less than High School Diploma",296,"Male",9.22693266832918
+"Black","Marin","Some College",551,"Male",17.1758104738155
+"Black","San Francisco","Bachelor's Degree",4191,"Female",31.6756103091225
+"Black","San Francisco","High School",3366,"Female",25.440253949059
+"Black","San Francisco","Less than High School Diploma",1107,"Female",8.36671453404882
+"Black","San Francisco","Some College",4567,"Female",34.5174212077696
+"Black","San Francisco","Bachelor's Degree",3730,"Male",22.1023939322114
+"Black","San Francisco","High School",7685,"Male",45.5380421900924
+"Black","San Francisco","Less than High School Diploma",1133,"Male",6.71367622659398
+"Black","San Francisco","Some College",4328,"Male",25.6458876511022
+"Black","San Mateo","Bachelor's Degree",2669,"Female",46.5631542219121
+"Black","San Mateo","High School",421,"Female",7.34473133286811
+"Black","San Mateo","Less than High School Diploma",630,"Female",10.9909281228193
+"Black","San Mateo","Some College",2012,"Female",35.1011863224006
+"Black","San Mateo","Bachelor's Degree",2251,"Male",35.8725099601594
+"Black","San Mateo","High School",1344,"Male",21.4183266932271
+"Black","San Mateo","Less than High School Diploma",509,"Male",8.11155378486056
+"Black","San Mateo","Some College",2171,"Male",34.597609561753
+"Hispanic","Alameda","Bachelor's Degree",30137,"Female",25.6463279720875
+"Hispanic","Alameda","High School",25911,"Female",22.0500382946132
+"Hispanic","Alameda","Less than High School Diploma",30348,"Female",25.8258871585397
+"Hispanic","Alameda","Some College",31114,"Female",26.4777465747596
+"Hispanic","Alameda","Bachelor's Degree",23887,"Male",19.8464593424671
+"Hispanic","Alameda","High School",35549,"Male",29.5358053822315
+"Hispanic","Alameda","Less than High School Diploma",38085,"Male",31.642835184739
+"Hispanic","Alameda","Some College",22838,"Male",18.9749000905624
+"Hispanic","Contra Costa","Bachelor's Degree",22507,"Female",23.0236507222063
+"Hispanic","Contra Costa","High School",23173,"Female",23.7049388272843
+"Hispanic","Contra Costa","Less than High School Diploma",24376,"Female",24.935553827898
+"Hispanic","Contra Costa","Some College",27700,"Female",28.3358566226114
+"Hispanic","Contra Costa","Bachelor's Degree",18266,"Male",18.9206546509219
+"Hispanic","Contra Costa","High School",26622,"Male",27.5761342448726
+"Hispanic","Contra Costa","Less than High School Diploma",27175,"Male",28.148953801533
+"Hispanic","Contra Costa","Some College",24477,"Male",25.3542573026725
+"Hispanic","Marin","Bachelor's Degree",3889,"Female",27.9342048556242
+"Hispanic","Marin","High School",2281,"Female",16.38414020974
+"Hispanic","Marin","Less than High School Diploma",4865,"Female",34.9446918546186
+"Hispanic","Marin","Some College",2887,"Female",20.7369630800172
+"Hispanic","Marin","Bachelor's Degree",3024,"Male",20.3883495145631
+"Hispanic","Marin","High School",3603,"Male",24.292071197411
+"Hispanic","Marin","Less than High School Diploma",4403,"Male",29.6858144552319
+"Hispanic","Marin","Some College",3802,"Male",25.633764832794
+"Hispanic","San Francisco","Bachelor's Degree",19042,"Female",43.4828279137742
+"Hispanic","San Francisco","High School",8109,"Female",18.5170807453416
+"Hispanic","San Francisco","Less than High School Diploma",7970,"Female",18.199671172817
+"Hispanic","San Francisco","Some College",8671,"Female",19.8004201680672
+"Hispanic","San Francisco","Bachelor's Degree",19630,"Male",39.2639263926393
+"Hispanic","San Francisco","High School",9284,"Male",18.5698569856986
+"Hispanic","San Francisco","Less than High School Diploma",8501,"Male",17.003700370037
+"Hispanic","San Francisco","Some College",12580,"Male",25.1625162516252
+"Hispanic","San Mateo","Bachelor's Degree",12097,"Female",20.7609665682707
+"Hispanic","San Mateo","High School",14506,"Female",24.8953113201071
+"Hispanic","San Mateo","Less than High School Diploma",17242,"Female",29.5908560444841
+"Hispanic","San Mateo","Some College",14423,"Female",24.752866067138
+"Hispanic","San Mateo","Bachelor's Degree",10886,"Male",18.712827036133
+"Hispanic","San Mateo","High School",14176,"Male",24.3682744868842
+"Hispanic","San Mateo","Less than High School Diploma",19888,"Male",34.1870938907416
+"Hispanic","San Mateo","Some College",13224,"Male",22.7318045862413
+"White","Alameda","Bachelor's Degree",112803,"Female",64.2788762892473
+"White","Alameda","High School",22621,"Female",12.8901931734002
+"White","Alameda","Less than High School Diploma",5189,"Female",2.95686363895379
+"White","Alameda","Some College",34877,"Female",19.8740668983988
+"White","Alameda","Bachelor's Degree",110217,"Male",62.2459295069098
+"White","Alameda","High School",21335,"Male",12.0491113533295
+"White","Alameda","Less than High School Diploma",4929,"Male",2.7836920487725
+"White","Alameda","Some College",40586,"Male",22.9212670909882
+"White","Contra Costa","Bachelor's Degree",95367,"Female",54.6989085110898
+"White","Contra Costa","High School",26068,"Female",14.9516200264986
+"White","Contra Costa","Less than High School Diploma",5298,"Female",3.03873265691229
+"White","Contra Costa","Some College",47616,"Female",27.3107388054993
+"White","Contra Costa","Bachelor's Degree",95471,"Male",56.6472445056249
+"White","Contra Costa","High School",24124,"Male",14.313855793421
+"White","Contra Costa","Less than High School Diploma",4195,"Male",2.48908245122704
+"White","Contra Costa","Some College",44746,"Male",26.5498172497271
+"White","Marin","Bachelor's Degree",47229,"Female",69.1858080393765
+"White","Marin","High School",5855,"Female",8.57699519512481
+"White","Marin","Less than High School Diploma",1496,"Female",2.19149185515059
+"White","Marin","Some College",13684,"Female",20.0457049103481
+"White","Marin","Bachelor's Degree",42056,"Male",66.6592699434151
+"White","Marin","High School",6829,"Male",10.8240478039657
+"White","Marin","Less than High School Diploma",1354,"Male",2.1461064177141
+"White","Marin","Some College",12852,"Male",20.3705758349051
+"White","San Francisco","Bachelor's Degree",88549,"Female",79.9200339359369
+"White","San Francisco","High School",5987,"Female",5.40357590909501
+"White","San Francisco","Less than High School Diploma",1365,"Female",1.23198281541919
+"White","San Francisco","Some College",14896,"Female",13.4444073395489
+"White","San Francisco","Bachelor's Degree",107968,"Male",77.3880944701287
+"White","San Francisco","High School",8719,"Male",6.24950722144572
+"White","San Francisco","Less than High School Diploma",2909,"Male",2.0850804572985
+"White","San Francisco","Some College",19919,"Male",14.2773178511271
+"White","San Mateo","Bachelor's Degree",62914,"Female",64.2051658859668
+"White","San Mateo","High School",10199,"Female",10.4083111369644
+"White","San Mateo","Less than High School Diploma",2574,"Female",2.62682546000061
+"White","San Mateo","Some College",22302,"Female",22.7596975170682
+"White","San Mateo","Bachelor's Degree",67761,"Male",66.9079239693903
+"White","San Mateo","High School",9987,"Male",9.86126882251296
+"White","San Mateo","Less than High School Diploma",2993,"Male",2.95531967415453
+"White","San Mateo","Some College",20534,"Male",20.2754875339422

@@ -1,0 +1,49 @@
+"race","gender","educational_attainment","total","percentage"
+"Asian","All","Bachelor's Degree",616049,61.1435110654997
+"Asian","All","High School",113722,11.2870280860626
+"Asian","All","Less than High School Diploma",112612,11.1768594188255
+"Asian","All","Some College",165163,16.3926014296121
+"Asian","Female","Bachelor's Degree",329249,61.3467063659163
+"Asian","Female","High School",58764,10.9490927926484
+"Asian","Female","Less than High School Diploma",64435,12.0057312996784
+"Asian","Female","Some College",84254,15.6984695417569
+"Asian","Male","Bachelor's Degree",286800,60.9118943854015
+"Asian","Male","High School",54958,11.6722311423741
+"Asian","Male","Less than High School Diploma",48177,10.2320513800749
+"Asian","Male","Some College",80909,17.1838230921494
+"Black","All","Bachelor's Degree",76230,33.6679666279475
+"Black","All","High School",55099,24.3351868455107
+"Black","All","Less than High School Diploma",17789,7.8567422057531
+"Black","All","Some College",77299,34.1401043207886
+"Black","Female","Bachelor's Degree",43087,37.4953225483627
+"Black","Female","High School",23208,20.1961483905215
+"Black","Female","Less than High School Diploma",8409,7.31770991967837
+"Black","Female","Some College",40209,34.9908191414374
+"Black","Male","Bachelor's Degree",33143,29.723597359736
+"Black","Male","High School",31891,28.6007676854642
+"Black","Male","Less than High School Diploma",9380,8.41225426890515
+"Black","Male","Some College",37090,33.2633806858947
+"Hispanic","All","Bachelor's Degree",163365,24.3411289313236
+"Hispanic","All","High School",163214,24.3186301680106
+"Hispanic","All","Less than High School Diploma",182853,27.2448103845948
+"Hispanic","All","Some College",161716,24.095430516071
+"Hispanic","Female","Bachelor's Degree",87672,26.467178669758
+"Hispanic","Female","High School",73980,22.3337197507608
+"Hispanic","Female","Less than High School Diploma",84801,25.6004564555861
+"Hispanic","Female","Some College",84795,25.5986451238951
+"Hispanic","Male","Bachelor's Degree",75693,22.2691968225949
+"Hispanic","Male","High School",89234,26.2530155928214
+"Hispanic","Male","Less than High School Diploma",98052,28.847308031774
+"Hispanic","Male","Some College",76921,22.6304795528096
+"White","All","Bachelor's Degree",830335,65.0542592173291
+"White","All","High School",141724,11.1036507353258
+"White","All","Less than High School Diploma",32302,2.53076490963065
+"White","All","Some College",272012,21.3113251377144
+"White","Female","Bachelor's Degree",406862,64.901760917802
+"White","Female","High School",70730,11.2826991700285
+"White","Female","Less than High School Diploma",15922,2.53984357677356
+"White","Female","Some College",133375,21.2756963353959
+"White","Male","Bachelor's Degree",423473,65.2014522297701
+"White","Male","High School",70994,10.9308312444956
+"White","Male","Less than High School Diploma",16380,2.52200208165251
+"White","Male","Some College",138637,21.3457144440818
