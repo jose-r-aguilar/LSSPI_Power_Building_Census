@@ -1,0 +1,121 @@
+"county","race","income_category","total","percentage"
+"Alameda","Asian","$125,000 to $199,999",32776,16.9515544269231
+"Alameda","Asian","$200,000 or more",76910,39.7773996514112
+"Alameda","Asian","$35,000 to $74,999",26512,13.7118504688365
+"Alameda","Asian","$75,000 to $124,999",30275,15.6580519366334
+"Alameda","Asian","Less than $34,999",26878,13.9011435161959
+"Alameda","Black","$125,000 to $199,999",9980,14.9416855059662
+"Alameda","Black","$200,000 or more",9489,14.2065785336787
+"Alameda","Black","$35,000 to $74,999",14026,20.9992065036755
+"Alameda","Black","$75,000 to $124,999",12196,18.2593984399563
+"Alameda","Black","Less than $34,999",21102,31.5931310167233
+"Alameda","Latino","$125,000 to $199,999",23586,21.8158610355736
+"Alameda","Latino","$200,000 or more",14653,13.5532863458942
+"Alameda","Latino","$35,000 to $74,999",27029,25.0004624747951
+"Alameda","Latino","$75,000 to $124,999",26437,24.4528923173687
+"Alameda","Latino","Less than $34,999",16409,15.1774978263685
+"Alameda","White","$125,000 to $199,999",42737,20.881338375695
+"Alameda","White","$200,000 or more",65580,32.0424496496731
+"Alameda","White","$35,000 to $74,999",31369,15.3269228889996
+"Alameda","White","$75,000 to $124,999",40298,19.6896406828687
+"Alameda","White","Less than $34,999",24682,12.0596484027635
+"Contra Costa","Asian","$125,000 to $199,999",17086,22.6574724837555
+"Contra Costa","Asian","$200,000 or more",29746,39.4456968571807
+"Contra Costa","Asian","$35,000 to $74,999",9738,12.9134067099854
+"Contra Costa","Asian","$75,000 to $124,999",11005,14.5935552314017
+"Contra Costa","Asian","Less than $34,999",7835,10.3898687176767
+"Contra Costa","Black","$125,000 to $199,999",6876,17.9623824451411
+"Contra Costa","Black","$200,000 or more",4576,11.9540229885057
+"Contra Costa","Black","$35,000 to $74,999",10150,26.5151515151515
+"Contra Costa","Black","$75,000 to $124,999",7152,18.6833855799373
+"Contra Costa","Black","Less than $34,999",9526,24.8850574712644
+"Contra Costa","Latino","$125,000 to $199,999",19272,21.7193346256142
+"Contra Costa","Latino","$200,000 or more",14321,16.139611414146
+"Contra Costa","Latino","$35,000 to $74,999",20884,23.5360411125637
+"Contra Costa","Latino","$75,000 to $124,999",22520,25.3797953387729
+"Contra Costa","Latino","Less than $34,999",11735,13.2252175089032
+"Contra Costa","White","$125,000 to $199,999",43065,22.330942862032
+"Contra Costa","White","$200,000 or more",61249,31.760081721969
+"Contra Costa","White","$35,000 to $74,999",31663,16.4185450793108
+"Contra Costa","White","$75,000 to $124,999",36867,19.1170293856852
+"Contra Costa","White","Less than $34,999",20005,10.3734009510031
+"Marin","Asian","$125,000 to $199,999",0,NA
+"Marin","Asian","$200,000 or more",0,NA
+"Marin","Asian","$35,000 to $74,999",0,NA
+"Marin","Asian","$75,000 to $124,999",0,NA
+"Marin","Asian","Less than $34,999",0,NA
+"Marin","Black","$125,000 to $199,999",0,NA
+"Marin","Black","$200,000 or more",0,NA
+"Marin","Black","$35,000 to $74,999",0,NA
+"Marin","Black","$75,000 to $124,999",0,NA
+"Marin","Black","Less than $34,999",0,NA
+"Marin","Latino","$125,000 to $199,999",1786,13.9826195881938
+"Marin","Latino","$200,000 or more",2448,19.1654270727315
+"Marin","Latino","$35,000 to $74,999",4569,35.7707664605026
+"Marin","Latino","$75,000 to $124,999",2455,19.2202301730212
+"Marin","Latino","Less than $34,999",1515,11.8609567055508
+"Marin","White","$125,000 to $199,999",13657,18.023332541505
+"Marin","White","$200,000 or more",30282,39.9635758967456
+"Marin","White","$35,000 to $74,999",10175,13.4280887903503
+"Marin","White","$75,000 to $124,999",11589,15.294164225196
+"Marin","White","Less than $34,999",10071,13.2908385462032
+"San Francisco","Asian","$125,000 to $199,999",22247,18.0878742052458
+"San Francisco","Asian","$200,000 or more",36760,29.8876367952908
+"San Francisco","Asian","$35,000 to $74,999",18234,14.8251134201668
+"San Francisco","Asian","$75,000 to $124,999",20260,16.4723482446298
+"San Francisco","Asian","Less than $34,999",25493,20.7270273346667
+"San Francisco","Black","$125,000 to $199,999",1187,7.71179833679834
+"San Francisco","Black","$200,000 or more",1681,10.9212577962578
+"San Francisco","Black","$35,000 to $74,999",3163,20.5496361746362
+"San Francisco","Black","$75,000 to $124,999",2552,16.5800415800416
+"San Francisco","Black","Less than $34,999",6809,44.2372661122661
+"San Francisco","Latino","$125,000 to $199,999",7814,15.1513388788707
+"San Francisco","Latino","$200,000 or more",10852,21.0420181102515
+"San Francisco","Latino","$35,000 to $74,999",9868,19.1340430069998
+"San Francisco","Latino","$75,000 to $124,999",9809,19.0196420607682
+"San Francisco","Latino","Less than $34,999",13230,25.6529579431098
+"San Francisco","White","$125,000 to $199,999",27560,16.9029978901918
+"San Francisco","White","$200,000 or more",69369,42.5451400814484
+"San Francisco","White","$35,000 to $74,999",19004,11.6554634218144
+"San Francisco","White","$75,000 to $124,999",26865,16.4767430449929
+"San Francisco","White","Less than $34,999",20250,12.4196555615524
+"San Mateo","Asian","$125,000 to $199,999",17673,21.7182392410352
+"San Mateo","Asian","$200,000 or more",37428,45.9950352692506
+"San Mateo","Asian","$35,000 to $74,999",8485,10.4271634674466
+"San Mateo","Asian","$75,000 to $124,999",11768,14.4616216481923
+"San Mateo","Asian","Less than $34,999",6020,7.39794037407526
+"San Mateo","Black","$125,000 to $199,999",1175,21.9585124275836
+"San Mateo","Black","$200,000 or more",605,11.3062978882452
+"San Mateo","Black","$35,000 to $74,999",1179,22.0332648103158
+"San Mateo","Black","$75,000 to $124,999",871,16.2773313399365
+"San Mateo","Black","Less than $34,999",1521,28.4245935339189
+"San Mateo","Latino","$125,000 to $199,999",9520,20.1618027023593
+"San Mateo","Latino","$200,000 or more",9029,19.1219450209666
+"San Mateo","Latino","$35,000 to $74,999",11918,25.2403744334788
+"San Mateo","Latino","$75,000 to $124,999",10276,21.7628870346054
+"San Mateo","Latino","Less than $34,999",6475,13.7129908085899
+"San Mateo","White","$125,000 to $199,999",21117,18.3697968770388
+"San Mateo","White","$200,000 or more",48852,42.4966291157409
+"San Mateo","White","$35,000 to $74,999",15442,13.4330825105476
+"San Mateo","White","$75,000 to $124,999",16511,14.36301161324
+"San Mateo","White","Less than $34,999",13033,11.3374798834326
+"Combined Counties","Asian","$125,000 to $199,999",89782,18.9762200161055
+"Combined Counties","Asian","$200,000 or more",180844,38.2229793565814
+"Combined Counties","Asian","$35,000 to $74,999",62969,13.3090552470891
+"Combined Counties","Asian","$75,000 to $124,999",73308,15.4942943679208
+"Combined Counties","Asian","Less than $34,999",66226,13.9974510123032
+"Combined Counties","Black","$125,000 to $199,999",19218,15.2746868442805
+"Combined Counties","Black","$200,000 or more",16351,12.9959623577287
+"Combined Counties","Black","$35,000 to $74,999",28518,22.6664335219686
+"Combined Counties","Black","$75,000 to $124,999",22771,18.0986519997457
+"Combined Counties","Black","Less than $34,999",38958,30.9642652762765
+"Combined Counties","Latino","$125,000 to $199,999",61978,20.0959761356636
+"Combined Counties","Latino","$200,000 or more",51303,16.6346746214455
+"Combined Counties","Latino","$35,000 to $74,999",74268,24.0809312279109
+"Combined Counties","Latino","$75,000 to $124,999",71497,23.1824519308712
+"Combined Counties","Latino","Less than $34,999",49364,16.0059660841088
+"Combined Counties","White","$125,000 to $199,999",148136,19.7174999866896
+"Combined Counties","White","$200,000 or more",275332,36.6478013874765
+"Combined Counties","White","$35,000 to $74,999",107653,14.3290491579838
+"Combined Counties","White","$75,000 to $124,999",132130,17.5870367313907
+"Combined Counties","White","Less than $34,999",88041,11.7186127364593
