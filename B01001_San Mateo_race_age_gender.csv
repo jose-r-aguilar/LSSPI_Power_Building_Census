@@ -1,0 +1,117 @@
+race,gender,age_group,county,total
+Black,Female,10 to 14 years,San Mateo,213
+Black,Female,15 to 17 years,San Mateo,245
+Black,Female,18 and 19 years,San Mateo,0
+Black,Female,20 to 24 years,San Mateo,132
+Black,Female,25 to 29 years,San Mateo,744
+Black,Female,30 to 34 years,San Mateo,467
+Black,Female,35 to 44 years,San Mateo,760
+Black,Female,45 to 54 years,San Mateo,1004
+Black,Female,5 to 9 years,San Mateo,176
+Black,Female,55 to 64 years,San Mateo,901
+Black,Female,65 to 74 years,San Mateo,920
+Black,Female,75 to 84 years,San Mateo,797
+Black,Female,85 years and over,San Mateo,139
+Black,Female,Under 5 years,San Mateo,197
+Black,Male,10 to 14 years,San Mateo,525
+Black,Male,15 to 17 years,San Mateo,201
+Black,Male,18 and 19 years,San Mateo,54
+Black,Male,20 to 24 years,San Mateo,307
+Black,Male,25 to 29 years,San Mateo,448
+Black,Male,30 to 34 years,San Mateo,549
+Black,Male,35 to 44 years,San Mateo,1470
+Black,Male,45 to 54 years,San Mateo,1148
+Black,Male,5 to 9 years,San Mateo,357
+Black,Male,55 to 64 years,San Mateo,1089
+Black,Male,65 to 74 years,San Mateo,1132
+Black,Male,75 to 84 years,San Mateo,372
+Black,Male,85 years and over,San Mateo,67
+Black,Male,Under 5 years,San Mateo,366
+Black,Other,Other,San Mateo,14780
+White,Female,10 to 14 years,San Mateo,7063
+White,Female,15 to 17 years,San Mateo,4343
+White,Female,18 and 19 years,San Mateo,2374
+White,Female,20 to 24 years,San Mateo,6536
+White,Female,25 to 29 years,San Mateo,6909
+White,Female,30 to 34 years,San Mateo,8627
+White,Female,35 to 44 years,San Mateo,15555
+White,Female,45 to 54 years,San Mateo,17550
+White,Female,5 to 9 years,San Mateo,4254
+White,Female,55 to 64 years,San Mateo,20029
+White,Female,65 to 74 years,San Mateo,18728
+White,Female,75 to 84 years,San Mateo,12034
+White,Female,85 years and over,San Mateo,6401
+White,Female,Under 5 years,San Mateo,3901
+White,Male,10 to 14 years,San Mateo,7793
+White,Male,15 to 17 years,San Mateo,4362
+White,Male,18 and 19 years,San Mateo,2988
+White,Male,20 to 24 years,San Mateo,5996
+White,Male,25 to 29 years,San Mateo,7480
+White,Male,30 to 34 years,San Mateo,9191
+White,Male,35 to 44 years,San Mateo,18989
+White,Male,45 to 54 years,San Mateo,18286
+White,Male,5 to 9 years,San Mateo,4502
+White,Male,55 to 64 years,San Mateo,21969
+White,Male,65 to 74 years,San Mateo,18132
+White,Male,75 to 84 years,San Mateo,10981
+White,Male,85 years and over,San Mateo,3090
+White,Male,Under 5 years,San Mateo,5125
+White,Other,Other,San Mateo,273188
+Asian,Female,10 to 14 years,San Mateo,5776
+Asian,Female,15 to 17 years,San Mateo,2851
+Asian,Female,18 and 19 years,San Mateo,1606
+Asian,Female,20 to 24 years,San Mateo,5249
+Asian,Female,25 to 29 years,San Mateo,7624
+Asian,Female,30 to 34 years,San Mateo,10890
+Asian,Female,35 to 44 years,San Mateo,20163
+Asian,Female,45 to 54 years,San Mateo,17630
+Asian,Female,5 to 9 years,San Mateo,4823
+Asian,Female,55 to 64 years,San Mateo,15473
+Asian,Female,65 to 74 years,San Mateo,13557
+Asian,Female,75 to 84 years,San Mateo,7332
+Asian,Female,85 years and over,San Mateo,2458
+Asian,Female,Under 5 years,San Mateo,5896
+Asian,Male,10 to 14 years,San Mateo,6331
+Asian,Male,15 to 17 years,San Mateo,3422
+Asian,Male,18 and 19 years,San Mateo,1584
+Asian,Male,20 to 24 years,San Mateo,5275
+Asian,Male,25 to 29 years,San Mateo,8151
+Asian,Male,30 to 34 years,San Mateo,10639
+Asian,Male,35 to 44 years,San Mateo,18814
+Asian,Male,45 to 54 years,San Mateo,15237
+Asian,Male,5 to 9 years,San Mateo,4724
+Asian,Male,55 to 64 years,San Mateo,12009
+Asian,Male,65 to 74 years,San Mateo,10965
+Asian,Male,75 to 84 years,San Mateo,4983
+Asian,Male,85 years and over,San Mateo,1932
+Asian,Male,Under 5 years,San Mateo,6994
+Asian,Other,Other,San Mateo,232388
+Latino,Female,10 to 14 years,San Mateo,6235
+Latino,Female,15 to 17 years,San Mateo,4462
+Latino,Female,18 and 19 years,San Mateo,2771
+Latino,Female,20 to 24 years,San Mateo,6734
+Latino,Female,25 to 29 years,San Mateo,6505
+Latino,Female,30 to 34 years,San Mateo,6421
+Latino,Female,35 to 44 years,San Mateo,12142
+Latino,Female,45 to 54 years,San Mateo,11771
+Latino,Female,5 to 9 years,San Mateo,5681
+Latino,Female,55 to 64 years,San Mateo,10162
+Latino,Female,65 to 74 years,San Mateo,6233
+Latino,Female,75 to 84 years,San Mateo,3341
+Latino,Female,85 years and over,San Mateo,1693
+Latino,Female,Under 5 years,San Mateo,5357
+Latino,Male,10 to 14 years,San Mateo,7362
+Latino,Male,15 to 17 years,San Mateo,4508
+Latino,Male,18 and 19 years,San Mateo,2980
+Latino,Male,20 to 24 years,San Mateo,7215
+Latino,Male,25 to 29 years,San Mateo,6810
+Latino,Male,30 to 34 years,San Mateo,6822
+Latino,Male,35 to 44 years,San Mateo,13461
+Latino,Male,45 to 54 years,San Mateo,12490
+Latino,Male,5 to 9 years,San Mateo,5344
+Latino,Male,55 to 64 years,San Mateo,10049
+Latino,Male,65 to 74 years,San Mateo,5462
+Latino,Male,75 to 84 years,San Mateo,2593
+Latino,Male,85 years and over,San Mateo,487
+Latino,Male,Under 5 years,San Mateo,5338
+Latino,Other,Other,San Mateo,180429

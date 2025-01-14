@@ -1,0 +1,117 @@
+race,gender,age_group,county,total
+Black,Female,10 to 14 years,Contra Costa,3635
+Black,Female,15 to 17 years,Contra Costa,1717
+Black,Female,18 and 19 years,Contra Costa,620
+Black,Female,20 to 24 years,Contra Costa,4189
+Black,Female,25 to 29 years,Contra Costa,2622
+Black,Female,30 to 34 years,Contra Costa,3228
+Black,Female,35 to 44 years,Contra Costa,6246
+Black,Female,45 to 54 years,Contra Costa,6647
+Black,Female,5 to 9 years,Contra Costa,2304
+Black,Female,55 to 64 years,Contra Costa,6936
+Black,Female,65 to 74 years,Contra Costa,5359
+Black,Female,75 to 84 years,Contra Costa,2190
+Black,Female,85 years and over,Contra Costa,1568
+Black,Female,Under 5 years,Contra Costa,2127
+Black,Male,10 to 14 years,Contra Costa,3387
+Black,Male,15 to 17 years,Contra Costa,1455
+Black,Male,18 and 19 years,Contra Costa,926
+Black,Male,20 to 24 years,Contra Costa,2619
+Black,Male,25 to 29 years,Contra Costa,2986
+Black,Male,30 to 34 years,Contra Costa,3618
+Black,Male,35 to 44 years,Contra Costa,6279
+Black,Male,45 to 54 years,Contra Costa,5753
+Black,Male,5 to 9 years,Contra Costa,1581
+Black,Male,55 to 64 years,Contra Costa,6427
+Black,Male,65 to 74 years,Contra Costa,4172
+Black,Male,75 to 84 years,Contra Costa,1702
+Black,Male,85 years and over,Contra Costa,446
+Black,Male,Under 5 years,Contra Costa,2594
+Black,Other,Other,Contra Costa,93333
+White,Female,10 to 14 years,Contra Costa,11086
+White,Female,15 to 17 years,Contra Costa,7031
+White,Female,18 and 19 years,Contra Costa,4217
+White,Female,20 to 24 years,Contra Costa,9883
+White,Female,25 to 29 years,Contra Costa,10859
+White,Female,30 to 34 years,Contra Costa,12066
+White,Female,35 to 44 years,Contra Costa,29684
+White,Female,45 to 54 years,Contra Costa,29729
+White,Female,5 to 9 years,Contra Costa,9503
+White,Female,55 to 64 years,Contra Costa,36616
+White,Female,65 to 74 years,Contra Costa,33897
+White,Female,75 to 84 years,Contra Costa,22593
+White,Female,85 years and over,Contra Costa,8487
+White,Female,Under 5 years,Contra Costa,7979
+White,Male,10 to 14 years,Contra Costa,11712
+White,Male,15 to 17 years,Contra Costa,7605
+White,Male,18 and 19 years,Contra Costa,4324
+White,Male,20 to 24 years,Contra Costa,10150
+White,Male,25 to 29 years,Contra Costa,9897
+White,Male,30 to 34 years,Contra Costa,12913
+White,Male,35 to 44 years,Contra Costa,31030
+White,Male,45 to 54 years,Contra Costa,30154
+White,Male,5 to 9 years,Contra Costa,9784
+White,Male,55 to 64 years,Contra Costa,35892
+White,Male,65 to 74 years,Contra Costa,32019
+White,Male,75 to 84 years,Contra Costa,18933
+White,Male,85 years and over,Contra Costa,4851
+White,Male,Under 5 years,Contra Costa,7270
+White,Other,Other,Contra Costa,460164
+Asian,Female,10 to 14 years,Contra Costa,6790
+Asian,Female,15 to 17 years,Contra Costa,4389
+Asian,Female,18 and 19 years,Contra Costa,2239
+Asian,Female,20 to 24 years,Contra Costa,5434
+Asian,Female,25 to 29 years,Contra Costa,5596
+Asian,Female,30 to 34 years,Contra Costa,8155
+Asian,Female,35 to 44 years,Contra Costa,20481
+Asian,Female,45 to 54 years,Contra Costa,19359
+Asian,Female,5 to 9 years,Contra Costa,6260
+Asian,Female,55 to 64 years,Contra Costa,14525
+Asian,Female,65 to 74 years,Contra Costa,12804
+Asian,Female,75 to 84 years,Contra Costa,6543
+Asian,Female,85 years and over,Contra Costa,2482
+Asian,Female,Under 5 years,Contra Costa,5402
+Asian,Male,10 to 14 years,Contra Costa,7237
+Asian,Male,15 to 17 years,Contra Costa,4123
+Asian,Male,18 and 19 years,Contra Costa,2263
+Asian,Male,20 to 24 years,Contra Costa,5429
+Asian,Male,25 to 29 years,Contra Costa,5928
+Asian,Male,30 to 34 years,Contra Costa,7273
+Asian,Male,35 to 44 years,Contra Costa,17316
+Asian,Male,45 to 54 years,Contra Costa,17916
+Asian,Male,5 to 9 years,Contra Costa,5529
+Asian,Male,55 to 64 years,Contra Costa,12784
+Asian,Male,65 to 74 years,Contra Costa,9535
+Asian,Male,75 to 84 years,Contra Costa,5492
+Asian,Male,85 years and over,Contra Costa,1107
+Asian,Male,Under 5 years,Contra Costa,5585
+Asian,Other,Other,Contra Costa,227976
+Latino,Female,10 to 14 years,Contra Costa,12490
+Latino,Female,15 to 17 years,Contra Costa,8832
+Latino,Female,18 and 19 years,Contra Costa,5266
+Latino,Female,20 to 24 years,Contra Costa,12140
+Latino,Female,25 to 29 years,Contra Costa,11665
+Latino,Female,30 to 34 years,Contra Costa,11592
+Latino,Female,35 to 44 years,Contra Costa,23026
+Latino,Female,45 to 54 years,Contra Costa,20373
+Latino,Female,5 to 9 years,Contra Costa,12552
+Latino,Female,55 to 64 years,Contra Costa,15551
+Latino,Female,65 to 74 years,Contra Costa,9293
+Latino,Female,75 to 84 years,Contra Costa,4779
+Latino,Female,85 years and over,Contra Costa,1477
+Latino,Female,Under 5 years,Contra Costa,11235
+Latino,Male,10 to 14 years,Contra Costa,14228
+Latino,Male,15 to 17 years,Contra Costa,9170
+Latino,Male,18 and 19 years,Contra Costa,5496
+Latino,Male,20 to 24 years,Contra Costa,12386
+Latino,Male,25 to 29 years,Contra Costa,11449
+Latino,Male,30 to 34 years,Contra Costa,11560
+Latino,Male,35 to 44 years,Contra Costa,24284
+Latino,Male,45 to 54 years,Contra Costa,21538
+Latino,Male,5 to 9 years,Contra Costa,11701
+Latino,Male,55 to 64 years,Contra Costa,15724
+Latino,Male,65 to 74 years,Contra Costa,7920
+Latino,Male,75 to 84 years,Contra Costa,3729
+Latino,Male,85 years and over,Contra Costa,336
+Latino,Male,Under 5 years,Contra Costa,11451
+Latino,Other,Other,Contra Costa,321243

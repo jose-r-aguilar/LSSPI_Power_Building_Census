@@ -1,0 +1,117 @@
+race,gender,age_group,county,total
+Black,Female,10 to 14 years,San Francisco,542
+Black,Female,15 to 17 years,San Francisco,535
+Black,Female,18 and 19 years,San Francisco,772
+Black,Female,20 to 24 years,San Francisco,1126
+Black,Female,25 to 29 years,San Francisco,1347
+Black,Female,30 to 34 years,San Francisco,1462
+Black,Female,35 to 44 years,San Francisco,2400
+Black,Female,45 to 54 years,San Francisco,1815
+Black,Female,5 to 9 years,San Francisco,877
+Black,Female,55 to 64 years,San Francisco,2230
+Black,Female,65 to 74 years,San Francisco,2115
+Black,Female,75 to 84 years,San Francisco,1419
+Black,Female,85 years and over,San Francisco,443
+Black,Female,Under 5 years,San Francisco,204
+Black,Male,10 to 14 years,San Francisco,1088
+Black,Male,15 to 17 years,San Francisco,282
+Black,Male,18 and 19 years,San Francisco,1058
+Black,Male,20 to 24 years,San Francisco,1142
+Black,Male,25 to 29 years,San Francisco,1379
+Black,Male,30 to 34 years,San Francisco,2509
+Black,Male,35 to 44 years,San Francisco,3888
+Black,Male,45 to 54 years,San Francisco,2749
+Black,Male,5 to 9 years,San Francisco,393
+Black,Male,55 to 64 years,San Francisco,2807
+Black,Male,65 to 74 years,San Francisco,2197
+Black,Male,75 to 84 years,San Francisco,1264
+Black,Male,85 years and over,San Francisco,83
+Black,Male,Under 5 years,San Francisco,828
+Black,Other,Other,San Francisco,38954
+White,Female,10 to 14 years,San Francisco,3863
+White,Female,15 to 17 years,San Francisco,2438
+White,Female,18 and 19 years,San Francisco,2269
+White,Female,20 to 24 years,San Francisco,6769
+White,Female,25 to 29 years,San Francisco,14773
+White,Female,30 to 34 years,San Francisco,16325
+White,Female,35 to 44 years,San Francisco,23722
+White,Female,45 to 54 years,San Francisco,17707
+White,Female,5 to 9 years,San Francisco,4883
+White,Female,55 to 64 years,San Francisco,17249
+White,Female,65 to 74 years,San Francisco,14203
+White,Female,75 to 84 years,San Francisco,9152
+White,Female,85 years and over,San Francisco,4840
+White,Female,Under 5 years,San Francisco,5275
+White,Male,10 to 14 years,San Francisco,3810
+White,Male,15 to 17 years,San Francisco,2385
+White,Male,18 and 19 years,San Francisco,1959
+White,Male,20 to 24 years,San Francisco,5972
+White,Male,25 to 29 years,San Francisco,16412
+White,Male,30 to 34 years,San Francisco,20397
+White,Male,35 to 44 years,San Francisco,33257
+White,Male,45 to 54 years,San Francisco,24812
+White,Male,5 to 9 years,San Francisco,5447
+White,Male,55 to 64 years,San Francisco,23207
+White,Male,65 to 74 years,San Francisco,16847
+White,Male,75 to 84 years,San Francisco,8238
+White,Male,85 years and over,San Francisco,3805
+White,Male,Under 5 years,San Francisco,5765
+White,Other,Other,San Francisco,315781
+Asian,Female,10 to 14 years,San Francisco,4372
+Asian,Female,15 to 17 years,San Francisco,2962
+Asian,Female,18 and 19 years,San Francisco,2254
+Asian,Female,20 to 24 years,San Francisco,7178
+Asian,Female,25 to 29 years,San Francisco,12668
+Asian,Female,30 to 34 years,San Francisco,13853
+Asian,Female,35 to 44 years,San Francisco,22930
+Asian,Female,45 to 54 years,San Francisco,20669
+Asian,Female,5 to 9 years,San Francisco,4387
+Asian,Female,55 to 64 years,San Francisco,20840
+Asian,Female,65 to 74 years,San Francisco,20808
+Asian,Female,75 to 84 years,San Francisco,10180
+Asian,Female,85 years and over,San Francisco,7783
+Asian,Female,Under 5 years,San Francisco,3356
+Asian,Male,10 to 14 years,San Francisco,4597
+Asian,Male,15 to 17 years,San Francisco,2721
+Asian,Male,18 and 19 years,San Francisco,1867
+Asian,Male,20 to 24 years,San Francisco,7077
+Asian,Male,25 to 29 years,San Francisco,11741
+Asian,Male,30 to 34 years,San Francisco,13591
+Asian,Male,35 to 44 years,San Francisco,20627
+Asian,Male,45 to 54 years,San Francisco,17758
+Asian,Male,5 to 9 years,San Francisco,5274
+Asian,Male,55 to 64 years,San Francisco,17316
+Asian,Male,65 to 74 years,San Francisco,16937
+Asian,Male,75 to 84 years,San Francisco,8761
+Asian,Male,85 years and over,San Francisco,3676
+Asian,Male,Under 5 years,San Francisco,4132
+Asian,Other,Other,San Francisco,290315
+Latino,Female,10 to 14 years,San Francisco,3580
+Latino,Female,15 to 17 years,San Francisco,2151
+Latino,Female,18 and 19 years,San Francisco,1633
+Latino,Female,20 to 24 years,San Francisco,4372
+Latino,Female,25 to 29 years,San Francisco,5784
+Latino,Female,30 to 34 years,San Francisco,6096
+Latino,Female,35 to 44 years,San Francisco,9823
+Latino,Female,45 to 54 years,San Francisco,7678
+Latino,Female,5 to 9 years,San Francisco,3747
+Latino,Female,55 to 64 years,San Francisco,5980
+Latino,Female,65 to 74 years,San Francisco,4650
+Latino,Female,75 to 84 years,San Francisco,2655
+Latino,Female,85 years and over,San Francisco,1126
+Latino,Female,Under 5 years,San Francisco,3640
+Latino,Male,10 to 14 years,San Francisco,3766
+Latino,Male,15 to 17 years,San Francisco,2399
+Latino,Male,18 and 19 years,San Francisco,1543
+Latino,Male,20 to 24 years,San Francisco,4057
+Latino,Male,25 to 29 years,San Francisco,5999
+Latino,Male,30 to 34 years,San Francisco,7338
+Latino,Male,35 to 44 years,San Francisco,12838
+Latino,Male,45 to 54 years,San Francisco,9770
+Latino,Male,5 to 9 years,San Francisco,3800
+Latino,Male,55 to 64 years,San Francisco,7503
+Latino,Male,65 to 74 years,San Francisco,4201
+Latino,Male,75 to 84 years,San Francisco,1004
+Latino,Male,85 years and over,San Francisco,1342
+Latino,Male,Under 5 years,San Francisco,4015
+Latino,Other,Other,San Francisco,132490
