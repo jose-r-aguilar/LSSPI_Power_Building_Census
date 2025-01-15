@@ -1,49 +1,37 @@
 "county","age_category","status","total","percentage"
-"Alameda","18 or Older","Foreign-born",136278,32.6954727573715
-"Alameda","18 or Older","Native",144254,34.6090544852571
-"Alameda","18 or Older","Naturalized U.S. citizen",48056,11.5294738609918
-"Alameda","18 or Older","Not a U.S. citizen",88222,21.1659988963796
-"Alameda","Under 18","Foreign-born",9782,9.07034104185598
-"Alameda","Under 18","Native",88282,81.859317916288
-"Alameda","Under 18","Naturalized U.S. citizen",2182,2.0232553826753
-"Alameda","Under 18","Not a U.S. citizen",7600,7.04708565918068
-"Contra Costa","18 or Older","Foreign-born",121390,34.5866075549756
-"Contra Costa","18 or Older","Native",108194,30.8267848900488
-"Contra Costa","18 or Older","Naturalized U.S. citizen",46766,13.3246337335529
-"Contra Costa","18 or Older","Not a U.S. citizen",74624,21.2619738214227
-"Contra Costa","Under 18","Foreign-born",8966,8.91031055900621
-"Contra Costa","Under 18","Native",82693,82.1793788819876
-"Contra Costa","Under 18","Naturalized U.S. citizen",2200,2.18633540372671
-"Contra Costa","Under 18","Not a U.S. citizen",6766,6.7239751552795
-"Marin","18 or Older","Foreign-born",18900,35.2447552447552
-"Marin","18 or Older","Native",15825,29.5104895104895
-"Marin","18 or Older","Naturalized U.S. citizen",5950,11.0955710955711
-"Marin","18 or Older","Not a U.S. citizen",12950,24.1491841491842
-"Marin","Under 18","Foreign-born",795,4.96906056628539
-"Marin","Under 18","Native",14409,90.0618788674292
-"Marin","Under 18","Naturalized U.S. citizen",0,0
-"Marin","Under 18","Not a U.S. citizen",795,4.96906056628539
-"San Francisco","18 or Older","Foreign-born",48303,31.4278278408536
-"San Francisco","18 or Older","Native",57089,37.1443443182927
-"San Francisco","18 or Older","Naturalized U.S. citizen",19887,12.9392628257263
-"San Francisco","18 or Older","Not a U.S. citizen",28416,18.4885650151274
-"San Francisco","Under 18","Foreign-born",2363,8.02077322562031
-"San Francisco","Under 18","Native",24735,83.9584535487594
-"San Francisco","Under 18","Naturalized U.S. citizen",234,0.794270391364855
-"San Francisco","Under 18","Not a U.S. citizen",2129,7.22650283425546
-"San Mateo","18 or Older","Foreign-born",72779,34.8356555827322
-"San Mateo","18 or Older","Native",63363,30.3286888345355
-"San Mateo","18 or Older","Naturalized U.S. citizen",28108,13.4538892691496
-"San Mateo","18 or Older","Not a U.S. citizen",44671,21.3817663135826
-"San Mateo","Under 18","Foreign-born",4111,8.49415265093599
-"San Mateo","Under 18","Native",40176,83.011694698128
-"San Mateo","Under 18","Naturalized U.S. citizen",711,1.46906896979214
-"San Mateo","Under 18","Not a U.S. citizen",3400,7.02508368114385
-"Combined Counties","18 or Older","Foreign-born",397650,33.5845949198708
-"Combined Counties","18 or Older","Native",388725,32.8308101602584
-"Combined Counties","18 or Older","Naturalized U.S. citizen",148767,12.5645151073668
-"Combined Counties","18 or Older","Not a U.S. citizen",248883,21.020079812504
-"Combined Counties","Under 18","Foreign-born",26017,8.60552576828554
-"Combined Counties","Under 18","Native",250295,82.7889484634289
-"Combined Counties","Under 18","Naturalized U.S. citizen",5327,1.76198776829216
-"Combined Counties","Under 18","Not a U.S. citizen",20690,6.84353799999338
+"Alameda","18 or Older","Citizen",48056,17.1303095547032
+"Alameda","18 or Older","Native",144254,51.4215847033494
+"Alameda","18 or Older","Not a U.S. citizen",88222,31.4481057419474
+"Alameda","Under 18","Citizen",2182,2.2250775004079
+"Alameda","Under 18","Native",88282,90.0248817099037
+"Alameda","Under 18","Not a U.S. citizen",7600,7.75004078968837
+"Contra Costa","18 or Older","Citizen",46766,20.3698864032337
+"Contra Costa","18 or Older","Native",108194,47.1261063488745
+"Contra Costa","18 or Older","Not a U.S. citizen",74624,32.5040072478918
+"Contra Costa","Under 18","Citizen",2200,2.40020074406223
+"Contra Costa","Under 18","Native",82693,90.2180909676082
+"Contra Costa","Under 18","Not a U.S. citizen",6766,7.38170828832957
+"Marin","18 or Older","Citizen",5950,17.1346292296616
+"Marin","18 or Older","Native",15825,45.5723542116631
+"Marin","18 or Older","Not a U.S. citizen",12950,37.2930165586753
+"Marin","Under 18","Citizen",0,0
+"Marin","Under 18","Native",14409,94.7711128650355
+"Marin","Under 18","Not a U.S. citizen",795,5.22888713496448
+"San Francisco","18 or Older","Citizen",19887,18.8695536663124
+"San Francisco","18 or Older","Native",57089,54.1682480643692
+"San Francisco","18 or Older","Not a U.S. citizen",28416,26.9621982693184
+"San Francisco","Under 18","Citizen",234,0.863532364012104
+"San Francisco","Under 18","Native",24735,91.2797992471769
+"San Francisco","Under 18","Not a U.S. citizen",2129,7.85666838881098
+"San Mateo","18 or Older","Citizen",28108,20.646090111795
+"San Mateo","18 or Older","Native",63363,46.541846013721
+"San Mateo","18 or Older","Not a U.S. citizen",44671,32.812063874484
+"San Mateo","Under 18","Citizen",711,1.60543726149886
+"San Mateo","Under 18","Native",40176,90.7173662700115
+"San Mateo","Under 18","Not a U.S. citizen",3400,7.67719646848963
+"Combined Counties","18 or Older","Citizen",148767,18.9180734382451
+"Combined Counties","18 or Older","Native",388725,49.4325226514068
+"Combined Counties","18 or Older","Not a U.S. citizen",248883,31.6494039103481
+"Combined Counties","Under 18","Citizen",5327,1.92789310634355
+"Combined Counties","Under 18","Native",250295,90.5841946784794
+"Combined Counties","Under 18","Not a U.S. citizen",20690,7.48791221517705
