@@ -36,7 +36,7 @@ citizenship_clean <- citizenship_data %>%
       TRUE ~ NA_character_
     ),
     status = case_when(
-      variable %in% c("B05003I_004", "B05003I_009", "B05003I_015", "B05003I_020") ~ "Native",
+      variable %in% c("B05003I_004", "B05003I_009", "B05003I_015", "B05003I_020") ~ "U.S. Born",
       variable %in% c("B05003I_006", "B05003I_011", "B05003I_017", "B05003I_022") ~ "Foreign-born, Naturalized U.S. citizen ",
       variable %in% c("B05003I_007", "B05003I_012", "B05003I_018", "B05003I_023") ~ "Foreign-born, Not a U.S. citizen",
       TRUE ~ NA_character_
