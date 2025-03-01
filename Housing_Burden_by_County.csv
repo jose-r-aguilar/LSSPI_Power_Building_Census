@@ -1,0 +1,41 @@
+GEOID,NAME,race_ethnicity,burden_category,total_burdened,total_burdened_group,percentage
+06001,"Alameda County, California",Asian,Moderate (30-50%),63394,96511,65.6857767508367
+06001,"Alameda County, California",Asian,Severe (≥50%),33117,96511,34.314223249163305
+06001,"Alameda County, California",Black,Moderate (30-50%),33754,52330,64.50219759220333
+06001,"Alameda County, California",Black,Severe (≥50%),18576,52330,35.49780240779668
+06001,"Alameda County, California",Latino,Moderate (30-50%),51809,75905,68.25505566168236
+06001,"Alameda County, California",Latino,Severe (≥50%),24096,75905,31.744944338317634
+06001,"Alameda County, California",White,Moderate (30-50%),67082,97433,68.84936315211479
+06001,"Alameda County, California",White,Severe (≥50%),30351,97433,31.150636847885217
+06013,"Contra Costa County, California",Asian,Moderate (30-50%),23626,34886,67.72344206845152
+06013,"Contra Costa County, California",Asian,Severe (≥50%),11260,34886,32.276557931548474
+06013,"Contra Costa County, California",Black,Moderate (30-50%),19958,32038,62.29477495474125
+06013,"Contra Costa County, California",Black,Severe (≥50%),12080,32038,37.70522504525876
+06013,"Contra Costa County, California",Latino,Moderate (30-50%),37365,55878,66.86889294534521
+06013,"Contra Costa County, California",Latino,Severe (≥50%),18513,55878,33.131107054654784
+06013,"Contra Costa County, California",White,Moderate (30-50%),59657,87353,68.29416276487356
+06013,"Contra Costa County, California",White,Severe (≥50%),27696,87353,31.705837235126438
+06041,"Marin County, California",Asian,Moderate (30-50%),2174,2874,75.6437021572721
+06041,"Marin County, California",Asian,Severe (≥50%),700,2874,24.356297842727905
+06041,"Marin County, California",Black,Moderate (30-50%),683,1219,56.029532403609515
+06041,"Marin County, California",Black,Severe (≥50%),536,1219,43.970467596390485
+06041,"Marin County, California",Latino,Moderate (30-50%),7140,11324,63.051925114800426
+06041,"Marin County, California",Latino,Severe (≥50%),4184,11324,36.948074885199574
+06041,"Marin County, California",White,Moderate (30-50%),27301,42297,64.54594888526373
+06041,"Marin County, California",White,Severe (≥50%),14996,42297,35.45405111473627
+06075,"San Francisco County, California",Asian,Moderate (30-50%),39679,58893,67.37473044334641
+06075,"San Francisco County, California",Asian,Severe (≥50%),19214,58893,32.62526955665359
+06075,"San Francisco County, California",Black,Moderate (30-50%),8013,12847,62.37253833579825
+06075,"San Francisco County, California",Black,Severe (≥50%),4834,12847,37.62746166420176
+06075,"San Francisco County, California",Latino,Moderate (30-50%),19552,30874,63.328366910669175
+06075,"San Francisco County, California",Latino,Severe (≥50%),11322,30874,36.67163308933083
+06075,"San Francisco County, California",White,Moderate (30-50%),51345,77921,65.89366152898448
+06075,"San Francisco County, California",White,Severe (≥50%),26576,77921,34.10633847101552
+06081,"San Mateo County, California",Asian,Moderate (30-50%),24549,35911,68.36066943276433
+06081,"San Mateo County, California",Asian,Severe (≥50%),11362,35911,31.639330567235668
+06081,"San Mateo County, California",Black,Moderate (30-50%),2295,3312,69.29347826086956
+06081,"San Mateo County, California",Black,Severe (≥50%),1017,3312,30.706521739130434
+06081,"San Mateo County, California",Latino,Moderate (30-50%),22998,34810,66.06722206262569
+06081,"San Mateo County, California",Latino,Severe (≥50%),11812,34810,33.93277793737432
+06081,"San Mateo County, California",White,Moderate (30-50%),34956,51324,68.10848725742342
+06081,"San Mateo County, California",White,Severe (≥50%),16368,51324,31.891512742576573

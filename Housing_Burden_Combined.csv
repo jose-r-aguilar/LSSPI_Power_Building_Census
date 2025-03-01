@@ -1,0 +1,9 @@
+race_ethnicity,burden_category,total_burdened,percentage
+Asian,Moderate (30-50%),153422,66.97457164684056
+Asian,Severe (≥50%),75653,33.02542835315945
+Black,Moderate (30-50%),64703,63.59267194779156
+Black,Severe (≥50%),37043,36.40732805220844
+Latino,Moderate (30-50%),138864,66.50861387703493
+Latino,Severe (≥50%),69927,33.491386122965075
+White,Moderate (30-50%),240341,67.44937248826923
+White,Severe (≥50%),115987,32.55062751173077
