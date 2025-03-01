@@ -1,0 +1,131 @@
+GEOID,NAME,variable,estimate,moe,origin_category,total_latino_population,percentage
+06001,"Alameda County, California",B03001_003,378596,NA,Hispanic or Latino,378596,100
+06001,"Alameda County, California",B03001_004,259291,10339,Mexican,378596,68.48751703663008
+06001,"Alameda County, California",B03001_005,11570,2331,Puerto Rican,378596,3.0560280615748714
+06001,"Alameda County, California",B03001_006,1871,895,Cuban,378596,0.49419433908440663
+06001,"Alameda County, California",B03001_007,678,580,Dominican (Dominican Republic),378596,0.17908271614068821
+06001,"Alameda County, California",B03001_009,607,615,Costa Rican,378596,0.16032921636784328
+06001,"Alameda County, California",B03001_010,24515,6668,Guatemalan,378596,6.4752400976238524
+06001,"Alameda County, California",B03001_011,6779,2811,Honduran,378596,1.7905630276072646
+06001,"Alameda County, California",B03001_012,10229,4062,Nicaraguan,378596,2.701824636287758
+06001,"Alameda County, California",B03001_013,1383,835,Panamanian,378596,0.36529704487104986
+06001,"Alameda County, California",B03001_014,21130,4413,Salvadoran,378596,5.581147185918499
+06001,"Alameda County, California",B03001_015,53,89,Other Central American,378596,0.013999091379729314
+06001,"Alameda County, California",B03001_017,2508,1350,Argentinean,378596,0.6624475694407759
+06001,"Alameda County, California",B03001_018,888,746,Bolivian,378596,0.2345508140603704
+06001,"Alameda County, California",B03001_019,1078,587,Chilean,378596,0.2847362359877019
+06001,"Alameda County, California",B03001_020,7387,2902,Colombian,378596,1.9511563777747254
+06001,"Alameda County, California",B03001_021,953,506,Ecuadorian,378596,0.25171951103551016
+06001,"Alameda County, California",B03001_022,50,81,Paraguayan,378596,0.013206689980876712
+06001,"Alameda County, California",B03001_023,5075,2283,Peruvian,378596,1.3404790330589864
+06001,"Alameda County, California",B03001_024,557,479,Uruguayan,378596,0.14712252638696657
+06001,"Alameda County, California",B03001_025,2688,1172,Venezuelan,378596,0.709991653371932
+06001,"Alameda County, California",B03001_026,0,221,Other South American,378596,0
+06001,"Alameda County, California",B03001_028,6178,2586,Spaniard,378596,1.6318186140371265
+06001,"Alameda County, California",B03001_029,6046,1684,Spanish,378596,1.596952952487612
+06001,"Alameda County, California",B03001_030,0,221,Spanish American,378596,0
+06001,"Alameda County, California",B03001_031,7082,1807,All other Hispanic or Latino,378596,1.8705955688913776
+06013,"Contra Costa County, California",B03001_003,321243,NA,Hispanic or Latino,321243,100
+06013,"Contra Costa County, California",B03001_004,193662,10820,Mexican,321243,60.285204658155976
+06013,"Contra Costa County, California",B03001_005,8656,3267,Puerto Rican,321243,2.694533421739929
+06013,"Contra Costa County, California",B03001_006,1689,738,Cuban,321243,0.5257702113353443
+06013,"Contra Costa County, California",B03001_007,508,605,Dominican (Dominican Republic),321243,0.15813574147919177
+06013,"Contra Costa County, California",B03001_009,1063,639,Costa Rican,321243,0.3309021519535056
+06013,"Contra Costa County, California",B03001_010,16906,5032,Guatemalan,321243,5.2626827666283775
+06013,"Contra Costa County, California",B03001_011,2564,1901,Honduran,321243,0.7981496873083616
+06013,"Contra Costa County, California",B03001_012,16703,4788,Nicaraguan,321243,5.199490728202639
+06013,"Contra Costa County, California",B03001_013,813,598,Panamanian,321243,0.2530794445326435
+06013,"Contra Costa County, California",B03001_014,35317,6967,Salvadoran,321243,10.993858231930345
+06013,"Contra Costa County, California",B03001_015,0,221,Other Central American,321243,0
+06013,"Contra Costa County, California",B03001_017,1082,941,Argentinean,321243,0.33681667771749113
+06013,"Contra Costa County, California",B03001_018,510,493,Bolivian,321243,0.15875832313855864
+06013,"Contra Costa County, California",B03001_019,971,632,Chilean,321243,0.30226339562262833
+06013,"Contra Costa County, California",B03001_020,5029,2514,Colombian,321243,1.5654815824780617
+06013,"Contra Costa County, California",B03001_021,679,443,Ecuadorian,321243,0.21136647335506142
+06013,"Contra Costa County, California",B03001_022,0,221,Paraguayan,321243,0
+06013,"Contra Costa County, California",B03001_023,7386,3421,Peruvian,321243,2.2991940680419494
+06013,"Contra Costa County, California",B03001_024,245,245,Uruguayan,321243,0.07626625327244484
+06013,"Contra Costa County, California",B03001_025,2761,2203,Venezuelan,321243,0.8594739807560009
+06013,"Contra Costa County, California",B03001_026,43,71,Other South American,321243,0.01338550567638828
+06013,"Contra Costa County, California",B03001_028,7212,2201,Spaniard,321243,2.2450294636770294
+06013,"Contra Costa County, California",B03001_029,4703,1967,Spanish,321243,1.4640007720012576
+06013,"Contra Costa County, California",B03001_030,0,221,Spanish American,321243,0
+06013,"Contra Costa County, California",B03001_031,12741,3113,All other Hispanic or Latino,321243,3.9661564609968156
+06041,"Marin County, California",B03001_003,NA,NA,Hispanic or Latino,NA,NA
+06041,"Marin County, California",B03001_004,NA,NA,Mexican,NA,NA
+06041,"Marin County, California",B03001_005,NA,NA,Puerto Rican,NA,NA
+06041,"Marin County, California",B03001_006,NA,NA,Cuban,NA,NA
+06041,"Marin County, California",B03001_007,NA,NA,Dominican (Dominican Republic),NA,NA
+06041,"Marin County, California",B03001_009,NA,NA,Costa Rican,NA,NA
+06041,"Marin County, California",B03001_010,NA,NA,Guatemalan,NA,NA
+06041,"Marin County, California",B03001_011,NA,NA,Honduran,NA,NA
+06041,"Marin County, California",B03001_012,NA,NA,Nicaraguan,NA,NA
+06041,"Marin County, California",B03001_013,NA,NA,Panamanian,NA,NA
+06041,"Marin County, California",B03001_014,NA,NA,Salvadoran,NA,NA
+06041,"Marin County, California",B03001_015,NA,NA,Other Central American,NA,NA
+06041,"Marin County, California",B03001_017,NA,NA,Argentinean,NA,NA
+06041,"Marin County, California",B03001_018,NA,NA,Bolivian,NA,NA
+06041,"Marin County, California",B03001_019,NA,NA,Chilean,NA,NA
+06041,"Marin County, California",B03001_020,NA,NA,Colombian,NA,NA
+06041,"Marin County, California",B03001_021,NA,NA,Ecuadorian,NA,NA
+06041,"Marin County, California",B03001_022,NA,NA,Paraguayan,NA,NA
+06041,"Marin County, California",B03001_023,NA,NA,Peruvian,NA,NA
+06041,"Marin County, California",B03001_024,NA,NA,Uruguayan,NA,NA
+06041,"Marin County, California",B03001_025,NA,NA,Venezuelan,NA,NA
+06041,"Marin County, California",B03001_026,NA,NA,Other South American,NA,NA
+06041,"Marin County, California",B03001_028,NA,NA,Spaniard,NA,NA
+06041,"Marin County, California",B03001_029,NA,NA,Spanish,NA,NA
+06041,"Marin County, California",B03001_030,NA,NA,Spanish American,NA,NA
+06041,"Marin County, California",B03001_031,NA,NA,All other Hispanic or Latino,NA,NA
+06075,"San Francisco County, California",B03001_003,132490,NA,Hispanic or Latino,132490,100
+06075,"San Francisco County, California",B03001_004,66343,6126,Mexican,132490,50.07396784662993
+06075,"San Francisco County, California",B03001_005,4113,1211,Puerto Rican,132490,3.104385236621632
+06075,"San Francisco County, California",B03001_006,1511,903,Cuban,132490,1.140463431202355
+06075,"San Francisco County, California",B03001_007,374,334,Dominican (Dominican Republic),132490,0.2822854555060759
+06075,"San Francisco County, California",B03001_009,670,668,Costa Rican,132490,0.5056985432862857
+06075,"San Francisco County, California",B03001_010,8067,3593,Guatemalan,132490,6.088761415955921
+06075,"San Francisco County, California",B03001_011,2235,1490,Honduran,132490,1.6869197675296248
+06075,"San Francisco County, California",B03001_012,6917,2932,Nicaraguan,132490,5.220771378971998
+06075,"San Francisco County, California",B03001_013,80,132,Panamanian,132490,0.06038191561627292
+06075,"San Francisco County, California",B03001_014,15902,3919,Salvadoran,132490,12.002415276624651
+06075,"San Francisco County, California",B03001_015,467,621,Other Central American,132490,0.35247943240999324
+06075,"San Francisco County, California",B03001_017,1623,648,Argentinean,132490,1.224998113065137
+06075,"San Francisco County, California",B03001_018,391,423,Bolivian,132490,0.2951166125745339
+06075,"San Francisco County, California",B03001_019,1750,1133,Chilean,132490,1.3208544041059704
+06075,"San Francisco County, California",B03001_020,2953,1005,Colombian,132490,2.2288474601856745
+06075,"San Francisco County, California",B03001_021,1070,673,Ecuadorian,132490,0.8076081213676504
+06075,"San Francisco County, California",B03001_022,0,221,Paraguayan,132490,0
+06075,"San Francisco County, California",B03001_023,3230,1344,Peruvian,132490,2.4379198430070192
+06075,"San Francisco County, California",B03001_024,139,141,Uruguayan,132490,0.10491357838327421
+06075,"San Francisco County, California",B03001_025,2220,1794,Venezuelan,132490,1.6755981583515736
+06075,"San Francisco County, California",B03001_026,76,132,Other South American,132490,0.05736281983545928
+06075,"San Francisco County, California",B03001_028,5336,1995,Spaniard,132490,4.027473771605404
+06075,"San Francisco County, California",B03001_029,2666,789,Spanish,132490,2.0122273379122952
+06075,"San Francisco County, California",B03001_030,0,221,Spanish American,132490,0
+06075,"San Francisco County, California",B03001_031,4357,1588,All other Hispanic or Latino,132490,3.2885500792512645
+06081,"San Mateo County, California",B03001_003,180429,NA,Hispanic or Latino,180429,100
+06081,"San Mateo County, California",B03001_004,108747,7080,Mexican,180429,60.27135327469531
+06081,"San Mateo County, California",B03001_005,4962,1729,Puerto Rican,180429,2.7501122325125116
+06081,"San Mateo County, California",B03001_006,424,377,Cuban,180429,0.23499548298776804
+06081,"San Mateo County, California",B03001_007,23,54,Dominican (Dominican Republic),180429,0.012747396482827042
+06081,"San Mateo County, California",B03001_009,240,244,Costa Rican,180429,0.13301631112515172
+06081,"San Mateo County, California",B03001_010,12867,4801,Guatemalan,180429,7.131336980197196
+06081,"San Mateo County, California",B03001_011,3726,2313,Honduran,180429,2.0650782302179804
+06081,"San Mateo County, California",B03001_012,7370,2860,Nicaraguan,180429,4.0847092208015345
+06081,"San Mateo County, California",B03001_013,282,312,Panamanian,180429,0.15629416557205328
+06081,"San Mateo County, California",B03001_014,18447,3825,Salvadoran,180429,10.223966213856976
+06081,"San Mateo County, California",B03001_015,0,221,Other Central American,180429,0
+06081,"San Mateo County, California",B03001_017,1711,967,Argentinean,180429,0.948295451396394
+06081,"San Mateo County, California",B03001_018,375,334,Bolivian,180429,0.20783798613304957
+06081,"San Mateo County, California",B03001_019,1418,912,Chilean,180429,0.7859047048977713
+06081,"San Mateo County, California",B03001_020,4047,2157,Colombian,180429,2.242987546347871
+06081,"San Mateo County, California",B03001_021,505,376,Ecuadorian,180429,0.27988848799250676
+06081,"San Mateo County, California",B03001_022,0,221,Paraguayan,180429,0
+06081,"San Mateo County, California",B03001_023,5043,1815,Peruvian,180429,2.795005237517251
+06081,"San Mateo County, California",B03001_024,48,82,Uruguayan,180429,0.026603262225030344
+06081,"San Mateo County, California",B03001_025,1431,1125,Venezuelan,180429,0.7931097550837171
+06081,"San Mateo County, California",B03001_026,97,163,Other South American,180429,0.053760759079748824
+06081,"San Mateo County, California",B03001_028,1979,682,Spaniard,180429,1.0968303321528137
+06081,"San Mateo County, California",B03001_029,2554,902,Spanish,180429,1.4155152442234895
+06081,"San Mateo County, California",B03001_030,112,171,Spanish American,180429,0.06207427852507081
+06081,"San Mateo County, California",B03001_031,4021,1350,All other Hispanic or Latino,180429,2.2285774459759793
